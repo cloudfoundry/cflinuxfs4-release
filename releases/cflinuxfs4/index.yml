@@ -3,6 +3,8 @@ builds:
     version: 0.6.11
   2a1c2efb-104a-4f8e-7d7c-b1029fcda03d:
     version: 0.6.1
+  ae15a5cb-2ce2-429e-7ad4-cf1f7210da0f:
+    version: 0.19.0
   d06733ae-6bd0-4688-44fe-7e0a68a360b3:
     version: 0.6.0
   f59402c1-fa7c-4d1e-6552-a587ff5aff4c:
