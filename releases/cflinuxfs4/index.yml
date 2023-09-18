@@ -161,6 +161,8 @@ builds:
     version: 1.12.0
   d8288f98-80d8-4bfe-6c28-f0d726cba7d9:
     version: 1.11.0
+  d8bb3bc9-ece4-406b-6a57-ccf0692a17a1:
+    version: 1.37.0
   d907212f-6046-4b56-5d7b-83df126e5733:
     version: 1.21.0
   d99f221f-5186-4182-514d-08ce34d32a8c:
