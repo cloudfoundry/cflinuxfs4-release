@@ -1,4 +1,4 @@
-rootfs/cflinuxfs4-1.93.0.tar.gz:
-  size: 436554841
-  object_id: 02f1eb15-86d3-4483-407c-60f47e2f48fa
-  sha: sha256:a4336d4723aeb173a4b073fe50013c5ca0f1e14d840abad7940814ba7ec16a1a
+rootfs/cflinuxfs4-1.94.0.tar.gz:
+  size: 436557074
+  object_id: 05db6463-0fb4-48f2-402c-77df31271fe5
+  sha: sha256:ca98eb259be7b8ebea31f1bf80e361ca3241edbe943ac5537b982a8cb066c7da
