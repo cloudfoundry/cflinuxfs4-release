@@ -417,4 +417,6 @@ builds:
     version: 0.38.0
   fddf7f46-b641-4b12-42e2-fc062314e339:
     version: 0.73.0
+  fec6d3d7-bfed-4579-7d6f-79c56293ad00:
+    version: 1.150.0
 format-version: "2"
