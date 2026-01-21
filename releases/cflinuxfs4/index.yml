@@ -569,6 +569,8 @@ builds:
     version: 1.119.0
   ce3389ce-f287-4eca-5cc1-4f47ca3d38ec:
     version: 1.87.0
+  ce37ad60-2299-4166-6a55-1e3dd0dc87cc:
+    version: 1.300.0
   ceb3c31a-e90b-47ea-6bcc-4f5ece6dff9f:
     version: 1.181.0
   cedab9c3-1884-4812-67e9-1ca3dc442bb8:
